@@ -11,7 +11,7 @@ published: true
 - n. 2 – Questions & Answers, vol. I (Sri Chinmoy Answers, parts 1 to 19)
 - n. 3 – Questions & Answers, vol. II (Sri Chinmoy Answers, parts 20 to 38)
 - n. 4 – Stories, vol. I (The Earth-Illumination-Trumpets of Divinity’s home – Illumination-experiences on Indian soil – Great Indian meals – India and her miracle-feast)
-- n. 5 – Questions & Answers, vol. III (Sri Chinmoy Speaks, Flames-Waves) – note: available early May 2016
+- n. 5 – Questions & Answers, vol. III (Sri Chinmoy Speaks, Flames-Waves)
 
 ## Price
 
