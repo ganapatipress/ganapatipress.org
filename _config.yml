@@ -16,3 +16,5 @@ permalink: /:title.html
 gems:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+  
