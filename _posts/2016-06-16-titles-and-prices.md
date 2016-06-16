@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prices
+title: Available titles and prices
 date: '2016-06-16 16:44:20 +0200'
 categories: hello
 published: true
