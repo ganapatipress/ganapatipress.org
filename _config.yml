@@ -12,3 +12,7 @@ url: "http://www.ganapatipress.org" # the base hostname & protocol for your site
 markdown: kramdown
 
 permalink: /:title.html
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
