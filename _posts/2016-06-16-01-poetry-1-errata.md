@@ -1,7 +1,10 @@
 ---
+layout: post
+title: Errata for 01 - Poetry, volume I
+date: '2016-06-16 16:44:20 +0200'
+categories: errata
 published: true
 ---
-## Errata for 01 - Poetry, volume I
 
 ### PART I - THE DANCE OF LIFE
 
