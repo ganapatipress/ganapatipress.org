@@ -9,7 +9,7 @@
 title: Ganapati Press
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ganapati Press: publishing the Works of Sri Chinmoy
+  Publishing the Works of Sri Chinmoy
 baseurl: "/ganapatipress.org" # the subpath of your site, e.g. /blog
 url: "http://ganapatipress.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
