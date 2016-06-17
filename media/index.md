@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Media Gallery"
-excerpt: "An archive of media posts."
+excerpt: ""
 tags: []
 image:
   feature:

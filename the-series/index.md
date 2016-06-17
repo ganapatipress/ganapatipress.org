@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "The Series"
+title: "The Works of Sri Chinmoy series"
 share: false
 ---
 

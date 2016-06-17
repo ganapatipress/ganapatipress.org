@@ -1,6 +1,6 @@
 ---
 layout: article
-title: About
+title: About Ganapati Press
 permalink: /about/
 share: false
 ---
