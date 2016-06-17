@@ -5,7 +5,7 @@ description: "The Works of Sri Chinmoy"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: "http://www.ganapati.org"
+url: "http://www.ganapatipress.org"
 feed:
   path: atom.xml
 
