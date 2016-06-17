@@ -6,6 +6,7 @@ tags: []
 image:
   feature:
   teaser:
+share: false
 ---
 
 <div class="tiles">
