@@ -10,6 +10,7 @@ ads: true
 image:
   feature:
   teaser:
+published: no
 ---
 
 Here's a sample video to test FitVid.js

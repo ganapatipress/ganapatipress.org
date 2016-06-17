@@ -10,6 +10,7 @@ ads: true
 image:
   feature:
   teaser:
+published: no
 ---
 
 This is a post to test image grids.

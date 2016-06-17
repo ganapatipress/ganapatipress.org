@@ -6,6 +6,7 @@ categories: articles
 excerpt: ""
 tags: [errata]
 share: false
+published: true
 ---
 
 {% include toc.html %}
