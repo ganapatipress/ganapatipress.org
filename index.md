@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Poetry vol I</h2>
-  <p class="post-excerpt">[Poetry volume I is out.](/articles/poetry-vol-1/)</p>
+  <p class="post-excerpt"><a href="/articles/poetry-vol-1/">Poetry volume I is out</a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
