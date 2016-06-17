@@ -17,7 +17,7 @@ The Publisher is also grateful to the international team of collaborators that s
 Our deepest gratitude to Sri Chinmoy. His living presence can be felt breathing throughout his writings. It is such a privilege to be involved with his works, in any form.
 
 {:refdef: style="text-align: center;"}
-[![sample image](/images/bio-photo.jpg)](http://www.ganapatipress.org "Ganapati Press")
+![My Image]({{ site.baseimg }}/images/bio-photo.jpg)
 {: refdef}
 
 
