@@ -9,22 +9,22 @@ image:
 
 <div class="tile">
   <h2 class="post-title">About</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <p class="post-excerpt">[Ganapati Press](/about/)</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Pages</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <p class="post-excerpt">.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Poetry vol I</h2>
+  <p class="post-excerpt">[Poetry volume I is out.](/articles/poetry-vol-1/)</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title">New and Upcoming</h2>
+  <p class="post-excerpt">Questions and Answers, volume 3.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
