@@ -4,7 +4,7 @@ billy_rick:
   name: Billy Rick
   web: http://thewhip.com
   email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+  bio: ""
   avatar: bio-photo.jpg
   twitter: extravagantman
   google:
@@ -13,7 +13,7 @@ billy_rick:
 cornelius_fiddlebone:
   name: Cornelius Fiddlebone
   email: cornelius@thewhip.com
-  bio: "I ordered what?"
+  bio: ""
   avatar: bio-photo.jpg
   twitter: rhymeswithsackit
   google:
