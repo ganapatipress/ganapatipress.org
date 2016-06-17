@@ -41,7 +41,7 @@ owner:
   web: "http://www.ganapatipress.org"
 #  twitter: ""
 #  bio: "Bio line here"
-#  avatar: "bio-photo.jpg" # 160x160 px image for author byline
+  avatar: "bio-photo.jpg" # 160x160 px image for author byline
 #  google:
 #    plus: "+MichaelRoseDesign"
 #    ad-client: "ca-pub-7328585512091257"
