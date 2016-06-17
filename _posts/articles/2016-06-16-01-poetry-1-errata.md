@@ -5,6 +5,7 @@ modified:
 categories: articles
 excerpt: ""
 tags: [errata]
+share: false
 ---
 
 {% include toc.html %}
