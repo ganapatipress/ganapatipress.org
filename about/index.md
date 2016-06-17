@@ -2,6 +2,7 @@
 layout: article
 title: About
 permalink: /about/
+share: false
 ---
 
 
