@@ -9,7 +9,7 @@ share: false
 
 ## The Series
 
-In preparation of upcoming [Sri Chinmoy](http://www.srichinmoy.org)’s Centenary Celebrations (2031), Ganapati Press has started making available the Works of Sri Chinmoy as high-quality hard-cover series, a total of about 80 to 100 volumes, averaging 800 pages each.
+In preparation of upcoming [Sri Chinmoy](http://www.srichinmoy.org)’s Centenary Celebrations (August 2031), Ganapati Press has started making available the Works of Sri Chinmoy as high-quality hard-cover series, a total of about 80 to 100 volumes, averaging 800 pages each.
 
 
 ## Fidelity
