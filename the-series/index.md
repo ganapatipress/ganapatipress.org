@@ -25,7 +25,7 @@ The Publisher would be grateful to be apprised of any mistypes via postal mail o
 
 ## Cite-keys
 
-Citation-keys are used throughout this edition to allow accurate cross-reference of texts, for example, {\smallcaps FW 13, SCS 27}. Please note: \emph{current cite-key numbering is not final and should not be officially used yet. Next edition may present slightly increased cite-key numbering, as the bibliographic keys take a little to stabilise.}
+Citation-keys are used throughout this edition to allow accurate cross-reference of texts, for example, FW 13, SCS 27.
 
 ## Other special features
 
