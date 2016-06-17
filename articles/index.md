@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Articles"
-excerpt: "Pages and articles."
+excerpt: "List of all pages and articles"
 tags: []
 image:
   feature:
