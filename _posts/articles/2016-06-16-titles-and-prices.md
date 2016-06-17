@@ -6,7 +6,7 @@ categories: articles
 excerpt: "List of available titles and current prices"
 tags: []
 share: false
-author: ""
+published: true
 ---
 
 ## Printed titles
