@@ -9,12 +9,12 @@ image:
 
 <div class="tile">
   <h2 class="post-title">About</h2>
-  <p class="post-excerpt">[Ganapati Press](/about/)</p>
+  <p class="post-excerpt"><a href="/about/">Ganapati Press</a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Pages</h2>
-  <p class="post-excerpt">.</p>
+  <p class="post-excerpt"><a href="/articles/">Pages</a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
