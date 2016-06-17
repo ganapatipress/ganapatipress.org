@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+- title: The Series
+  url: /the-series/
+  excerpt: "The Works of Sri Chinmoy Series."
   image: 400x250.gif
 
-- title: Sample Articles
+- title: All Pages and articles
   url: /articles/
-  excerpt: "Examples of long form posts."
+  excerpt: "Pages and articles"
   image: 400x250.gif
 
 - title: Media
   url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  excerpt: "Media posts"
   image: 400x250.gif
 
 - title: About
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "About Ganapati Press"
   image: 400x250.gif
