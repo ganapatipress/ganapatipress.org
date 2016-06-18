@@ -33,4 +33,4 @@ Citation-keys are used throughout this edition to allow accurate cross-reference
 - High-quality, hardbound edition
 - Printed on acid free and lignin free paper
 - It meets all ANSI standards for archival quality paper
-- All profit goes _directly_ to Sri Chinmoy Centre, NY.
+- All profit goes _directly_ to text copyright holder, &copy; Sri Chinmoy Centre, NY.
