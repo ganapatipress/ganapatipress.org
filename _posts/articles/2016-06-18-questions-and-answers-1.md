@@ -22,5 +22,3 @@ This contains Sri Chinmoy answers, parts 1-19.
 ## Links ##
 
 - [Amazon.com](https://www.amazon.com/Questions-Answers-vol-Chinmoy-parts/dp/0993308007/)
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
