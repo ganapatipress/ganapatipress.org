@@ -30,22 +30,27 @@ image:
 </div><!-- /.tiles -->
 
 
-<div>
-<h3>Current titles</h3>
+&nbsp;
+
+<hr />
+
+<h4 id="Informationalpublicpage-Printedtitles,alreadyavailable:">Printed titles, already available:</h4>
 <ul>
- 	<li> n. 1 - Poetry, vol. I</a> (<em>The Dance of Life</em>, <em>The Wings of Light</em>, <em>The Golden Boat</em>) - note special price: $70, €70</li>
- 	<li> n. 2 - Questions &amp; Answers, vol. I </a>(<em>Sri Chinmoy Answers</em>, parts 1 to 19)</li>
- 	<li> n. 3 - Questions &amp; Answers, vol. II</a> (<em>Sri Chinmoy Answers</em>, parts 20 to 38)</li>
- 	<li> n. 4 - Stories, vol. I</a> (<em>The Earth-Illumination-Trumpets of Divinity’s home – Illumination-experiences on Indian soil – Great Indian meals – India and her miracle-feast</em>)</li>
- 	<li> n. 5 - Questions &amp; Answers, vol. III</a> (<em>Sri Chinmoy Speaks</em>, <em>Flames-Waves</em>) - note: available early May 2016</li>
+ 	<li>n. 1 - Poetry, vol. I (<em>The Dance of Life</em>, <em>The Wings of Light</em>, <em>The Golden Boat</em>) - note special price: $70, €70</li>
+ 	<li>n. 2 - Questions &amp; Answers, vol. I (<em>Sri Chinmoy Answers</em>, parts 1 to 19)</li>
+ 	<li>n. 3 - Questions &amp; Answers, vol. II (<em>Sri Chinmoy Answers</em>, parts 20 to 38)</li>
+ 	<li>n. 4 - Stories, vol. I (<em>The Earth-Illumination-Trumpets of Divinity’s home – Illumination-experiences on Indian soil – Great Indian meals – India and her miracle-feast</em>)</li>
+ 	<li>n. 5 - Questions &amp; Answers, vol. III (<em>Sri Chinmoy Speaks</em>, <em>Flames-Waves</em>) - note: available early July 2016</li>
 </ul>
 <h3>Upcoming titles</h3>
-<p>Poetry volume 2 – (<em>Ten thousand Aspiration-Plants</em>)</p>
- 	<p>Everest Aspiration</p>
-&nbsp;
+<ul>
+ 	<li>Poetry volume 2 – (<em>Ten thousand Aspiration-Plants</em>)</li>
+ 	<li>Everest Aspiration</li>
+</ul>
 <h3 id="Informationalpublicpage-Price">Price</h3>
-
-<p>Most volumes are available at €40, US$ 40, AU$ 50, CN$ 45, NZ$ 60.</p>
+<ul>
+ 	<li>Most volumes are available at €40, US$ 40, AU$ 50, CN$ 45, NZ$ 60.</li>
+</ul>
 <h2>Purchase from bookshops / online retailers</h2>
 These books can be purchased / ordered from major bookshops and book dealers. You may be also be able to order through your local bookshop. They are available from major distributors, such as:
 <ul>
