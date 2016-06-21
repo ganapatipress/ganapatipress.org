@@ -36,8 +36,8 @@ image:
 
 <h4 id="Informationalpublicpage-Printedtitles,alreadyavailable:">Printed titles, already available:</h4>
 <ul>
- 	<li>n. 1 - Poetry, vol. I (<em>The Dance of Life</em>, <em>The Wings of Light</em>, <em>The Golden Boat</em>) - note special price: $70, €70</li>
- 	<li>n. 2 - Questions &amp; Answers, vol. I (<em>Sri Chinmoy Answers</em>, parts 1 to 19)</li>
+ 	<li><a href="http://www.ganapatipress.org/articles/poetry-vol-1/">n. 1 - Poetry, vol. I</a> (<em>The Dance of Life</em>, <em>The Wings of Light</em>, <em>The Golden Boat</em>) - note special price: $70, €70</li>
+ 	<li><a href="http://www.ganapatipress.org/articles/questions-and-answers-1/">n. 2 - Questions &amp; Answers, vol. I </a>(<em>Sri Chinmoy Answers</em>, parts 1 to 19)</li>
  	<li>n. 3 - Questions &amp; Answers, vol. II (<em>Sri Chinmoy Answers</em>, parts 20 to 38)</li>
  	<li>n. 4 - Stories, vol. I (<em>The Earth-Illumination-Trumpets of Divinity’s home – Illumination-experiences on Indian soil – Great Indian meals – India and her miracle-feast</em>)</li>
  	<li>n. 5 - Questions &amp; Answers, vol. III (<em>Sri Chinmoy Speaks</em>, <em>Flames-Waves</em>) - note: available early July 2016</li>
