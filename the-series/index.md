@@ -34,3 +34,12 @@ Citation-keys are used throughout this edition to allow accurate cross-reference
 - Printed on acid free and lignin free paper
 - It meets all ANSI standards for archival quality paper
 - All profit goes _directly_ to text copyright holder, &copy; Sri Chinmoy Centre, NY.
+
+
+## List of published books
+
+1.	Poetry vol. 1 – (Dance of Life, Wings of Light, Golden Boat) (£55)
+2.	Question and answers – vol. 1  (Sri Chinmoy answers 1-19)
+3.	Question and answers – vol. 2 (Sri Chinmoy answers 20-38)
+4.	Stories – vol. 1 (The earth illumination-trumpets of divinity’s home, Illumination-experiences on Indian soil, Great Indian Meals, India and her miracle feast)
+
