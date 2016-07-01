@@ -40,7 +40,7 @@ image:
  	<li><a href="http://www.ganapatipress.org/articles/questions-and-answers-1/">n. 2 - Questions &amp; Answers, vol. I </a>(<em>Sri Chinmoy Answers</em>, parts 1 to 19)</li>
  	<li>n. 3 - Questions &amp; Answers, vol. II (<em>Sri Chinmoy Answers</em>, parts 20 to 38)</li>
  	<li>n. 4 - Stories, vol. I (<em>The Earth-Illumination-Trumpets of Divinity’s home – Illumination-experiences on Indian soil – Great Indian meals – India and her miracle-feast</em>)</li>
- 	<li>n. 5 - Questions &amp; Answers, vol. III (<em>Sri Chinmoy Speaks</em>, <em>Flames-Waves</em>) - note: available early July 2016</li>
+ 	<li>n. <a href="http://www.ganapatipress.org/articles/question-answers-3/">5 - Questions &amp; Answers, vol. III</a> (<em>Sri Chinmoy Speaks</em>, <em>Flames-Waves</em>) - note: available early July 2016</li>
 </ul>
 <h3>Upcoming titles</h3>
 <ul>
