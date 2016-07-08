@@ -11,9 +11,7 @@ published: true
 
 ---
 
-
-![QA 3 cover](/images/05-questions-answers-3-cover.jpg "poetry 1 cover")
- 
+<img src="/images/05-questions-and-answers-3-cover.jpg" width="250" alt="qa-3" />
 
 
 This is the third set of question and answers. It includes:
