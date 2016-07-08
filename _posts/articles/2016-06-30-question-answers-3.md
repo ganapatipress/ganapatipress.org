@@ -11,7 +11,7 @@ published: true
 
 ---
 
-<img src="/images/05-questions-and-answers-3-cover.jpg" width="250" alt="qa-3" />
+<img src="/images/05-questions-and-answers-3-cover.jpg" width="200" alt="qa-3" />
 
 
 This is the third set of question and answers. It includes:
